@@ -1,5 +1,6 @@
 ---
 title: "practice-activity-6"
+author: Hawkins, Nico, Bowden
 format: html
 editor: visual
 embed-resources: true
