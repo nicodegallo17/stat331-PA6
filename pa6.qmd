@@ -1,5 +1,6 @@
 ---
 title: "practice-activity-6"
+author: Nico Laurenson, Hawkins Sanborn, Bowden Widmann
 format: html
 editor: visual
 embed-resources: true
